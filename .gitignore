@@ -1,0 +1,7 @@
+# 构建产物与临时文件
+hongguo-native/build/
+hongguo-native/hongguo-native
+hongguo-api/ep-*.json
+*.part
+*.mp4
+*.log

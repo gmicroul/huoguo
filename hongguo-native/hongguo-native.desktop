@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=红果短剧
+Name[en]=Hongguo Native
+Comment=红果短剧原生版（全集+高清，不用Waydroid）
+Exec=/home/phablet/huoguo/hongguo-native/hongguo-launcher.sh
+Icon=hongguo-native
+Terminal=false
+Categories=AudioVideo;Video;Player;
+StartupNotify=true
+X-Lomiri-Touch=true

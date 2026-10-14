@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=红果短剧 H5(旧)
+Name[en]=Hongguo Drama
+Comment=红果短剧 H5 版（免 Waydroid 原生壳）
+Exec=/home/phablet/huoguo/hongguo-ut/hongguo-launcher.sh
+Icon=hongguo-ut
+Terminal=false
+Categories=AudioVideo;Video;Player;
+StartupNotify=true
+X-Lomiri-Touch=true
